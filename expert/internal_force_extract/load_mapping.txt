@@ -1,0 +1,10 @@
+# 荷载名称 → ULS / ALS / SLS（Word 表格中 ULS→ELU，SLS→ELS）
+# 格式：荷载名称,类型  或  荷载名称=类型  （# 开头为注释）
+# 支持前缀匹配（如 ELU包络 匹配 ELU包络(最大)）
+
+ELU包络(最大),ULS
+ELS RARE包络(最大),SLS
+ELS fréquentes包络(最大),SLS
+ELU包络(最小),ULS
+ELS RARE包络(最小),SLS
+ELS fréquentes包络(最小),SLS

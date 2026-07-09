@@ -1,0 +1,107 @@
+# 荷载名称 → ULS / ALS / SLS 映射表
+# 格式：荷载名称,类型[,QP|RARE]  或  荷载名称=类型  （# 开头为注释）
+# 荷载名称需与 Midas 导出 Excel 中「荷载」列一致；支持前缀匹配（如 ELU包络 匹配 ELU包络(最大)）
+
+# —— ELU / ELUA 包络 ——
+ELU1(最大),ELU
+ELU11(最大),ELU
+ELU2(最大),ELU
+ELU22(最大),ELU
+ELU3(最大),ELU
+ELU33(最大),ELU
+ELU4(最大),ELU
+ELU44(最大),ELU
+ELU5(最大),ELU
+ELU55(最大),ELU
+ELU6(最大),ELU
+ELU66(最大),ELU
+ELU7(最大),ELU
+ELU77(最大),ELU
+ELU8(最大),ELU
+ELU88(最大),ELU
+ELUA1,ELA
+ELUA11,ELA
+ELUA2,ELA
+ELUA22,ELA
+ELS RARES1(最大),ELS Rare
+ELS RARES11(最大),ELS Rare
+ELS RARES2(最大),ELS Rare
+ELS RARES22(最大),ELS Rare
+ELS RARES3(最大),ELS Rare
+ELS RARES33(最大),ELS Rare
+ELS RARES4(最大),ELS Rare
+ELS RARES44(最大),ELS Rare
+ELS RARES5(最大),ELS Rare
+ELS RARES55(最大),ELS Rare
+ELS RARES6(最大),ELS Rare
+ELS RARES66(最大),ELS Rare
+ELS RARES7(最大),ELS Rare
+ELS RARES77(最大),ELS Rare
+ELS RARES8(最大),ELS Rare
+ELS RARES88(最大),ELS Rare
+ELS fréquentes1(最大),ELS
+ELS fréquentes11(最大),ELS
+ELS fréquentes2(最大),ELS
+ELS fréquentes22(最大),ELS
+ELS fréquentes3(最大),ELS
+ELS fréquentes33(最大),ELS
+ELS fréquentes4(最大),ELS
+ELS fréquentes44(最大),ELS
+ELS fréquentes5(最大),ELS
+ELS fréquentes55(最大),ELS
+ELS fréquentes6(最大),ELS
+ELS fréquentes66(最大),ELS
+ELS fréquentes7(最大),ELS
+ELS fréquentes77(最大),ELS
+ELS fréquentes8(最大),ELS
+ELS fréquentes88(最大),ELS
+ELS QP1,ELS QP
+ELS QP2,ELS QP
+ELU1(最小),ELU
+ELU11(最小),ELU
+ELU2(最小),ELU
+ELU22(最小),ELU
+ELU3(最小),ELU
+ELU33(最小),ELU
+ELU4(最小),ELU
+ELU44(最小),ELU
+ELU5(最小),ELU
+ELU55(最小),ELU
+ELU6(最小),ELU
+ELU66(最小),ELU
+ELU7(最小),ELU
+ELU77(最小),ELU
+ELU8(最小),ELU
+ELU88(最小),ELU
+ELS RARES1(最小),ELS Rare
+ELS RARES11(最小),ELS Rare
+ELS RARES2(最小),ELS Rare
+ELS RARES22(最小),ELS Rare
+ELS RARES3(最小),ELS Rare
+ELS RARES33(最小),ELS Rare
+ELS RARES4(最小),ELS Rare
+ELS RARES44(最小),ELS Rare
+ELS RARES5(最小),ELS Rare
+ELS RARES55(最小),ELS Rare
+ELS RARES6(最小),ELS Rare
+ELS RARES66(最小),ELS Rare
+ELS RARES7(最小),ELS Rare
+ELS RARES77(最小),ELS Rare
+ELS RARES8(最小),ELS Rare
+ELS RARES88(最小),ELS Rare
+ELS fréquentes1(最小),ELS
+ELS fréquentes11(最小),ELS
+ELS fréquentes2(最小),ELS
+ELS fréquentes22(最小),ELS
+ELS fréquentes3(最小),ELS
+ELS fréquentes33(最小),ELS
+ELS fréquentes4(最小),ELS
+ELS fréquentes44(最小),ELS
+ELS fréquentes5(最小),ELS
+ELS fréquentes55(最小),ELS
+ELS fréquentes6(最小),ELS
+ELS fréquentes66(最小),ELS
+ELS fréquentes7(最小),ELS
+ELS fréquentes77(最小),ELS
+ELS fréquentes8(最小),ELS
+ELS fréquentes88(最小),ELS

@@ -1,0 +1,21 @@
+γ q = 2.0, ELU 3.0,  ELS
+---
+F p = 1 2 γ h p 2 K p
+---
+K p = tan 2 π 4 + φ 2
+---
+  q A = q max ×( B 0 - B 1 )/ B 0
+---
+q B = q max × B' 2 / B 0
+---
+  q A = q max ×( B 0 - B 1 )/ B 0
+---
+q B = q max × B' 2 / B 0
+---
+  q A = q min +( q max - q min )(B- B 1 )/B
+---
+q B = q min +( q max - q min ) B 2 /B
+---
+  q A = q min +( q max - q min )(B- B 1 )/B
+---
+q B = q min +( q max - q min ) B 2 /B

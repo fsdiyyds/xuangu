@@ -1,0 +1,5 @@
+structure_width = 10.0
+structure_height = 5.0
+bar_diameter = 12.0
+protective_cover = 30.0
+spacing = 150.0

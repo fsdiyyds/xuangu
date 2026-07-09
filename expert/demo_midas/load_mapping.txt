@@ -1,0 +1,16 @@
+# 荷载名称 → ULS / ALS / SLS 映射表
+# 格式：荷载名称,类型  或  荷载名称=类型  （# 开头为注释）
+# 荷载名称需与 Midas 导出 Excel 中「荷载」列完全一致
+
+ELU包络(最大),ULS
+ELU包络(最小),ULS
+ELS RARE包络(最大),SLS
+ELS RARE包络(最小),SLS
+ELUA包络(最大),ALS
+ELUA包络(最小),ALS
+ELU抗震包络(最大),ALS
+ELU抗震包络(最小),ALS
+ELS fréquentes包络(最大),SLS
+ELS QP包络(最大),SLS
+ELS fréquentes包络(最小),SLS
+ELS QP包络(最小),SLS

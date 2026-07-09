@@ -1,0 +1,41 @@
+b1:
+  exclude_st: true
+  j_best: 13
+  j_threshold: 15
+  min_score: 35
+  top_n: 520
+b2:
+  lookback_n: 10
+  up_pct_threshold: 0.05
+  vol_multiple: 1.5
+backtest:
+  min_direction_accuracy: 0.5
+  min_rank_ic: 0.015
+  min_top_k_win_rate: 0.42
+  require_pass_to_recommend: false
+  train_ratio: 0.6
+  valid_ratio: 0.15
+data:
+  cache_dir: data/cache
+  max_stocks: 2500
+  start_date: '2023-01-01'
+  use_parallel: true
+  workers: 6
+ensemble:
+  enabled:
+    b1: true
+    b2: true
+    lgb: true
+    lstm: false
+  weights:
+    b1: 0.25
+    b2: 0.4
+    lgb: 0.25
+lstm:
+  batch_size: 128
+  epochs: 15
+  forward_days: 5
+  seq_len: 30
+  top_k: 20
+output:
+  dir: output/b1_lstm

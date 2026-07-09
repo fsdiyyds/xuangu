@@ -1,0 +1,84 @@
+--- 0 ---
+>γq=2.0, ELU3.0, ELS</
+--- 1 ---
+>；q'u : （FASCICULE 62 Titre Ⅴ B.2.2.3）contrainte à rupture du sol sous la charge verticale concentrée ;q'0 : （FASCICULE 62 Titre Ⅴ B.3.1.1）contrainte effective verticale, <w:r 
+--- 2 ---
+Para><
+--- 3 ---
+>Fp=12γhp2Kp</
+--- 4 ---
+></
+--- 5 ---
+Para><
+--- 6 ---
+Para><
+--- 7 ---
+>Kp=tan2π4+φ2</
+--- 8 ---
+></
+--- 9 ---
+Para>8.2.2.5.  Tassement de la fondation superficielleCalculer selon la module Meyerhof (FASCICULE 62 Titre V)Dans le cas d´un sol homogène, le tassement final se calcule par la formule suivante :<a:picLocks noChange
+--- 10 ---
+Para><
+--- 11 ---
+> qA=qmax×(B0-B1)/B0</
+--- 12 ---
+></
+--- 13 ---
+Para><
+--- 14 ---
+Para><
+--- 15 ---
+>qB=qmax×B'2/B0</
+--- 16 ---
+></
+--- 17 ---
+Para>00<v:shape id="文本框 3" o:spid="_x0000_s1026" type="#_x0000_t202" style="position:absolute;left:0;text-align:left;margin-left:78.75pt;margin-top:348.2pt;width:323.7pt;height:42.6pt;z-index:251660288;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:3.6pt;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:3.6pt;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xA;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#xA;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#xA;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#xA;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#xA;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#xA;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#xA;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#xA;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#xA;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#xA;IQC6JmF96wEAALUDAAAOAAAAZHJzL2Uyb0RvYy54bWysU11v2yAUfZ+0/4B4X2xHydZYcaquVadJ&#xA;3YfU9QfcYByjAZcBiZ39+l2Im0bbWzU/IODA4Z5zj9fXo9HsIH1QaBtezUrOpBXYKrtr+NOP+3dX&#xA;nIUItgWNVjb8KAO/3rx9sx5cLefYo26lZ0RiQz24hvcxurooguilgTBDJy2BHXoDkZZ+V7QeBmI3&#xA;upiX5ftiQN86j0KGQLt3J5BvMn/XSRG/dV2QkemGU20xjz6P2zQWmzXUOw+uV2IqA15RhQFl6dEz&#xA;1R1EYHuv/qEySngM2MWZQFNg1ykhswZSU5V/qXnswcmshcwJ7mxT+H+04uvh0X33LI4fcaQGZhHB&#xA;PaD4GZjF2x7sTt54j0MvoaWHq2RZMbhQT1eT1aEOiWQ7fMGWmgz7iJlo7LxJrpBORuzUgOPZdDlG&#xA;JmhzUVXlakWQIGy5qMp57koB9fNt50P8JNGwNGm4p6Zmdjg8hJiqgfr5SHrM4r3SOjdWWzY0fLWc&#xA;L/OFC8SoSLnTyjT8qkxflgW1tpO6JOgkLY7bkdiSyi22R9Lp8ZQjyj1NevS/ORsoQw0Pv/bgJWf6&#xA;syWvVtVikUKXF4vlB1LG/CWyvUTACqJqeOTsNL2NOagnTTfkaaey3JdKplopG9mFKccpfJfrfOrl&#xA;b9v8AQAA//8DAFBLAwQUAAYACAAAACEAlfeMRN8AAAALAQAADwAAAGRycy9kb3ducmV2LnhtbEyP&#xA;y07DMBBF90j8gzVI7KhdlKRJiFMhEFsQ5SGxc+NpEhGPo9htwt8zrOjyao7uPVNt
+--- 18 ---
+Para><
+--- 19 ---
+> qA=qmax×(B0-B1)/B0</
+--- 20 ---
+></
+--- 21 ---
+Para><
+--- 22 ---
+Para><
+--- 23 ---
+>qB=qmax×B'2/B0</
+--- 24 ---
+></
+--- 25 ---
+Para>10534652878455<
+--- 26 ---
+Para><
+--- 27 ---
+> qA=qmin+(qmax-qmin)(B-B1)/B</
+--- 28 ---
+></
+--- 29 ---
+Para><
+--- 30 ---
+Para><
+--- 31 ---
+>qB=qmin+(qmax-qmin)B2/B</
+--- 32 ---
+></
+--- 33 ---
+Para>00<v:shape w14:anchorId="5BA2B75B" id="文本框 1" o:spid="_x0000_s1027" type="#_x0000_t202" style="position:absolute;left:0;text-align:left;margin-left:82.95pt;margin-top:226.65pt;width:323.7pt;height:38pt;z-index:251659264;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:3.6pt;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:3.6pt;mso-position-horizontal:absolute;mso-position-horizontal-relative:margin;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xA;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#xA;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#xA;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#xA;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#xA;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#xA;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#xA;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#xA;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#xA;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#xA;IQB5RzmT7gEAALwDAAAOAAAAZHJzL2Uyb0RvYy54bWysU1Fv0zAQfkfiP1h+p0mqdqxR02lsGkIa&#xA;DGnwA1zHaSxsnzm7Tcqv5+xmXQVviDxYPp/v833ffVnfjNawg8KgwTW8mpWcKSeh1W7X8O/fHt5d&#xA;cxaicK0w4FTDjyrwm83bN+vB12oOPZhWISMQF+rBN7yP0ddFEWSvrAgz8MpRsgO0IlKIu6JFMRC6&#xA;NcW8LK+KAbD1CFKFQKf3pyTfZPyuUzI+dV1QkZmGU28xr5jXbVqLzVrUOxS+13JqQ/xDF1ZoR4+e&#xA;oe5FFGyP+i8oqyVCgC7OJNgCuk5LlTkQm6r8g81zL7zKXEic4M8yhf8HK78cnv1XZHH8ACMNMJMI&#xA;/hHkj8Ac3PXC7dQtIgy9Ei09XCXJisGHeipNUoc6JJDt8BlaGrLYR8hAY4c2qUI8GaHTAI5n0dUY&#xA;maTDRVWVqxWlJOUW1/OrMk+lEPVLtccQPyqwLG0ajjTUjC4OjyGmbkT9ciU95uBBG5MHaxwbGr5a&#xA;zpe54CJjdSTfGW0bfl2mL9MStXETu0ToRC2O25HpdqKeyG6hPRJdhJOdyP606QF/cTaQlRoefu4F&#xA;Ks7MJ0eSrarFInkvB4vl+zkFeJnZXmaEkwTV8MjZaXsXs19P1G5J2k5n1q+dTC2TRbIYk52TBy/j&#xA;fOv1p9v8BgAA//8DAFBLAwQUAAYACAAAACEAHzrcr98AAAALAQAADwAAAGRycy9kb3ducmV2Lnht&#xA;bEyPTU/DMAyG70j8h8hI3FiydZ3WrumEQFxBjA9pt6zx2orGqZpsLf8e78RufuVHrx8X28l14oxD&#xA;aD1pmM8UCKTK25ZqDZ8fLw9rECEasqbzhBp+McC2vL0pTG79SO943sVacAmF3GhoYuxzKUPVoDNh&#xA;5nsk3h394EzkONTSDmbkctfJhVIr6UxLfKExPT41WP3sTk7D1+tx/71Ub/WzS/vRT0qSy6TW93fT&#xA;4wZExCn+w3DR
+--- 34 ---
+Para><
+--- 35 ---
+> qA=qmin+(qmax-qmin)(B-B1)/B</
+--- 36 ---
+></
+--- 37 ---
+Para><
+--- 38 ---
+Para><
+--- 39 ---
+>qB=qmin+(qmax-qmin)B2/B</
+--- 40 ---
+></
+--- 41 ---
+Para>Figure 8.2</w:r

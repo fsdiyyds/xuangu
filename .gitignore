@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 大体积行情缓存（云端会重新下载）
+quant_ashare/data/cache/hist_*.pkl
+quant_ashare/data/cache/hist_*.parquet
+
+# 保留股票列表缓存和 latest 结果
+!quant_ashare/data/cache/all_a_codes.txt
+!quant_ashare/output/latest/
+
+# 本地完整输出（仅同步 latest）
+quant_ashare/output/b1_lstm/
+quant_ashare/output/report_*.md
+quant_ashare/output/recommendations_*.csv
+
+# 密钥
+.env
+*.token
+TUSHARE_TOKEN
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TensorFlow / ML
+*.h5
+*.keras
+mlruns/
+
+# AutoCAD / Expert 临时文件（可选）
+*.bak
+~$*

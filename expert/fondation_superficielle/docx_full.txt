@@ -1,0 +1,51 @@
+8 Note de la vérification des composants d’infrastructure du pont 
+8.1 Calcul des fondations superficielles 
+8.1.1.  Schémas de calcul
+Figure 8.1.1
+8.2.2.  Vérification de l’assise
+8.2.2.1.  Vérification de la mobilisation du sol
+Dont：
+q'ref : （FASCICULE 62 Titre Ⅴ B.2.2.2）peut être calculé à l’aide du modèle Meyerhof avec la formule suivante:
+，，；
+；
+q'u : （FASCICULE 62 Titre Ⅴ B.2.2.3）contrainte à rupture du sol sous la charge verticale concentrée ;
+q'0 : （FASCICULE 62 Titre Ⅴ B.3.1.1）contrainte effective verticale, , : poids volumique du sol d’assise, : poids volumique déjaugé du sol d’assise ;
+iδβ : coefficient inférieur à 1, calculé selon le FASCICULE 62 Titre V Annexe 1 :
+Pour les argies :
+Pour les sols sableux : 
+Dont :
+De : Profondeur d’encastrement de la fondation
+B: Largeur de la fondation 
+δ: valeur absolue de l’angle par rapport à la charge verticale de la contrainte de la fondation, exprimée en degré ;
+8.2.2.2.  Vérification au renversement
+En cas de ELU Fondamental ou ELU Accidentel, ;
+En cas de ELS Rare, ;
+En cas de ELS Quasi Permanent, ，soit .
+Dont： 
+As : Superfice du sol comprimé;
+A : Superficie de la base de la fondation
+8.2.2.3.  Vérification au glissement
+Dont :
+Hd : effort transversal sous combinaison ELU, ;
+Vd : effort vertical sous combinaison ELU,  ;
+ : angle de frottement intérieur du sol ;
+C′ : cohésion, non supérieure à 75kPa；
+A′ : superficie du sol comprimé As
+8.2.2.4.  Butée des terres sur la bêche
+La butée des terres reprise par la bêche est une poussée passive, calculée avec la théorie de Rankine, par une méthode similaire à celle de calcul de la poussée active des terres. La formule de calcul est la suivante:
+Figure 8.2.2.4
+8.2.2.5.  Tassement de la fondation superficielle
+Calculer selon la module Meyerhof (FASCICULE 62 Titre V)
+Dans le cas d´un sol homogène, le tassement final se calcule par la formule suivante :
+8.2.3.  Vérification du ferraillage
+8.2.3.1.  Calcul des armatures principales 
+Figure 8.2.3.1
+Le calcul du ferraillage de la section A-A est effectué comme pour les éléments en flexion simple. 
+VAA=(qA+qmax)/2×B1-γB×h×B1
+MAA=(qA+2qmax)/6×B12-γB×h×B12/2
+Le calcul du ferraillage de la section B-B est effectué comme pour les éléments en flexion simple.
+VBB=Vq1-VqB+γB×h×B2
+MBB=Mq1-MqB+γB×h×B22/2
+Selon les normes parasismiques, il faut respecter un ratio mini. de 0.15% pour les armatures principales du bord inférieur, et de 0.1% pour le bord supérieur.
+8.2.3.2.  Calcul des cadres
+La section At et l’espacement St des cadres doivent respecter : , dont .
