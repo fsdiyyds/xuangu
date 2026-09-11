@@ -1,8 +1,8 @@
 {
-  "n_points": 1615,
-  "mae_price": 0.4377,
-  "mape_pct": 4.23,
-  "direction_accuracy": 0.6,
-  "return_correlation": 0.4076,
-  "mean_error_pct": 0.03
+  "n_points": 1700,
+  "mae_price": 0.4521,
+  "mape_pct": 4.19,
+  "direction_accuracy": 0.5553,
+  "return_correlation": 0.1945,
+  "mean_error_pct": 0.47
 }
